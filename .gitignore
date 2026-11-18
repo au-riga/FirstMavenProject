@@ -1,0 +1,24 @@
+# Результаты сборки Maven
+target/
+
+# Файлы IDE (IntelliJ IDEA, VS Code, Eclipse)
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Системный мусор Windows и macOS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Логи, временные и резервные файлы
+*.log
+*.tmp
+*.bak
+*~
+
+# Папка, куда скрипты могут копировать готовые файлы
+dist/
